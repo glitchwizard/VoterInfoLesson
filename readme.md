@@ -1,4 +1,4 @@
-# Project Title
+# Voter Info jQuery Lesson
 
 This project was for using jQuery to show certain parts of a website depending on a users age using if/else operators
 
